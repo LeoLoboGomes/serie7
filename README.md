@@ -5,11 +5,11 @@ A aplicação está presente em ****
 
 Ao entrá na url acima a tela inicial apresentada é:
 
-![Imagem da tela de inicio](images/serie6-initial-window.png)
+![Imagem da tela de inicio](images/initial-window.png)
 
 Clicando nos digitos, o numero ficará sendo formado logo acima do teclado, como apresentado na figura a baixo:
 
-![Imagem da tela de inicio](images/serie6-initial-value.png)
+![Imagem da tela de inicio](images/initial-value.png)
 
 Assim, basta digitar o primeiro número, clicar na operação desejada, digitar o segundo número e clicar no sinal de igual para receber o resulta. Caso tenha digitado algo errado basta clicar na tecla **C** para reiniciar.
 
