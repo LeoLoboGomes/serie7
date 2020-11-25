@@ -1,7 +1,7 @@
 # serie7
 Sistema Operacional utilizado: Ubuntu 20.04
 
-A aplicação está presente em ****
+A aplicação está presente em **https://expo.io/@alpha71/projects/serie7-leogomes**
 
 Ao entrá na url acima a tela inicial apresentada é:
 
